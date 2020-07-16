@@ -1,4 +1,4 @@
-# Application to practice creating a RESTful API
+# Creating A RESTful API
 ## Users-API
 ### RESTful Design Principles
 API's power nearly all modern day applications. Though end users don't interact with them directly, it is important to put effort into designing them so that they are efficient, flexible, and easy to use. When designing APIs, other developers become the users. The goal is to build APIs to assist other developers to create rich, fully-featured applications.
